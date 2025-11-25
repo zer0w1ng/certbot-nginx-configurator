@@ -5,7 +5,8 @@
 # NGINX_CONF=test/odoo17.conf
 
 CERTBOT_CREATE=certbot.sh
-NGINX_CONF=/etc/nginx/conf.d/odoo17.conf
+NGINX_CONF=/etc/nginx/conf.d/odoo18.conf
+#NGINX_CONF=/etc/nginx/sites-enabled/kinsenas17.conf
 
 ##################################
 
